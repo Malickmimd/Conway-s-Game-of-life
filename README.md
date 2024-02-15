@@ -1,3 +1,5 @@
+#Conway's Game
+
 Conway's Game of Life is considered one of the most significant and elegant algorithms in the world, combining art and science. From two or three basic rules, this algorithm has the astonishing ability to simulate a Turing machine
 Rules are simples, in a population of cells:
 -a living cell can only survive the next generation if it has only two or three neighbors.
